@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/css/main.c17677f6.css",
+    "main.js": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/js/main.e6244f0c.js",
+    "static/js/453.488b426d.chunk.js": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/js/453.488b426d.chunk.js",
+    "static/media/jewellery8.jpg": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/media/jewellery8.57466527f131218b58ed.jpg",
+    "static/media/jewellery7.jpg": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/media/jewellery7.49179b51ccc31f0ad65b.jpg",
+    "static/media/jewellery2.jpg": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/media/jewellery2.611e884eac0755c9a3f9.jpg",
+    "static/media/jewellery6.jpg": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/media/jewellery6.257bb1316d03763cfd56.jpg",
+    "static/media/jewellery4.jpg": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/media/jewellery4.b249dbb4280fb11b5edf.jpg",
+    "static/media/jewellery1.jpg": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/media/jewellery1.612f2826e182e18b0bbe.jpg",
+    "static/media/jewellery9.jpg": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/media/jewellery9.baa88e36f45455f29379.jpg",
+    "static/media/jewellery10.jpg": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/media/jewellery10.fa08cb01ba74df2f93ee.jpg",
+    "static/media/jewellery5.jpg": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/media/jewellery5.c08bdc3c658ed817482e.jpg",
+    "static/media/jewellery3.jpg": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/media/jewellery3.8b080df9869267152ab8.jpg",
+    "static/media/jewellery11.jpg": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/media/jewellery11.ce12a8087d306ed08c42.jpg",
+    "static/media/jewellery12.jpg": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/media/jewellery12.b7625ead293d267ed744.jpg",
+    "index.html": "/Kokila-developer/Jewellery-Rental-Shop-App.git/index.html",
+    "main.c17677f6.css.map": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/css/main.c17677f6.css.map",
+    "main.e6244f0c.js.map": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/js/main.e6244f0c.js.map",
+    "453.488b426d.chunk.js.map": "/Kokila-developer/Jewellery-Rental-Shop-App.git/static/js/453.488b426d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c17677f6.css",
+    "static/js/main.e6244f0c.js"
+  ]
+}
